@@ -1,0 +1,33 @@
+            OOP
+Objects:
+    1. Properties
+    2. Functions 
+
+Steps to create an object:
+    1. Design the object - CLASS
+    2. Creating the object using constructor() - properties
+    3. Use the object -- functions
+
+CONDITIONAL PROGRAMMING
+    1. if
+    2. if - else if
+    3. if - else
+    4. switch
+
+LOOPS
+    1. for
+
+DATA 
+    variables - to store data
+
+    DATA TYPES:
+        1. Undefined
+        2. Numeric
+        3. String - Collection of characters that the compiler does not use
+        4. Null - empty
+        5. Boolean - true/false
+
+    DATA STRUCTURE - to store collection of variables
+        1. Array
+        2. JSON - JS Object Notation    
+
